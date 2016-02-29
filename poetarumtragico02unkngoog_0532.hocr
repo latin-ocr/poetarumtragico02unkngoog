@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poetarumtragico02unkngoog_0532.png"; bbox 0 0 3092 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 756 2364 2592 2432">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 756 2364 2592 2432">
+     <span class='ocr_line' id='line_1_1' title="bbox 756 2364 2592 2432; baseline 0.002 -20"><span class='ocrx_word' id='word_1_1' title='bbox 756 2364 1138 2430; x_wconf 63' lang='lat' dir='ltr'><strong>Vratisltvi⁸o2</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1180 2369 1322 2430; x_wconf 69' lang='lat' dir='ltr'><strong>typis</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1359 2365 1590 2432; x_wconf 67' lang='lat' dir='ltr'><strong>Gnosii,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1627 2368 1822 2416; x_wconf 67' lang='lat' dir='ltr'><strong>Bau-chii</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1859 2373 1908 2417; x_wconf 75' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1945 2367 2086 2417; x_wconf 74' lang='lat' dir='ltr'>Socii</span> <span class='ocrx_word' id='word_1_7' title='bbox 2123 2366 2240 2432; x_wconf 53' lang='grc' dir='ltr'><strong>(ἵν’.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2277 2365 2592 2428; x_wconf 72' lang='lat' dir='ltr'>Friednch).</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
